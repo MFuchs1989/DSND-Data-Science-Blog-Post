@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./CRISP_DM.png "CRISP-DM"
+[image1]: ./images/CRISP_DM.png "CRISP-DM"
 
 
 
