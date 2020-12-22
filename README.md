@@ -6,7 +6,7 @@
 
 # DSND-Data-Science-Blog-Post
 Post about the Data Science Process for machine learning model development according CRISP-DM.
-Here is the link to the post we are talking about: ["The Data Science Process (CRISP-DM)"](https://michael-fuchs-python.netlify.app/2020/11/07/the-data-science-process-crisp-dm/)
+Here is the link to the post we are talking about: ["The Data Science Process (CRISP-DM)"](https://michael-fuchs-python.netlify.app/2020/08/21/the-data-science-process-crisp-dm/)
 
 
 ## Project Overview
